@@ -26,3 +26,4 @@ __pycache__/
 *.ipr
 logs/
 temp/
+test_mongo_db.py
